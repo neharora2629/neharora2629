@@ -1,8 +1,8 @@
-👋 Hi, I'm Neha Arora
+_👋 Hi, I'm Neha Arora
 I'm based in India
 🎯 Data Analyst | SQL | BI Tools
 💼 Currently @ GoSharpener Pvt. Ltd., driving insights with data
-✉️  You can contact me at [neharora2629@gmail.com](mailto:neharora2629@gmail.com)
+✉️  You can contact me at [neharora2629@gmail.com](mailto:neharora2629@gmail.com)_
 ==================================================================================================================================
 
 Data Analyst
