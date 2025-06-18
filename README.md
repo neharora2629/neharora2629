@@ -1,18 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Arora
+👋 Hi, I'm Neha Arora
+I'm based in India
+🎯 Data Analyst | SQL | BI Tools
+💼 Currently @ GoSharpener Pvt. Ltd., driving insights with data
+✉️  You can contact me at [neharora2629@gmail.com](mailto:neharora2629@gmail.com)
 ==================================================================================================================================
 
 Data Analyst
 ------------
 
-Passionate Data Analyst on a journey of learning and growth, turning complex datasets into cool insights with Python, SQL, and data viz tools.
+### 🔧 Tools & Technologies I Use
+- **Languages & Querying:** SQL, Python
+- **Visualization:** Power BI, Excel, Tableau
+- **Data Handling:** Pandas, Google Sheets, Firebase, MySQL
+- **Others:** Play Console Analytics, Automation, Workflow Optimization
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [neharora2629@gmail.com](mailto:neharora2629@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Projects
+### 📊 What I’m working on:
+- Analyzing app usage data to improve user retention and satisfaction
+- Building clean, informative dashboards for leadership teams
+- Automating monthly and campaign-based reports to save time & reduce manual work
 
-### Skills
-
+### 💬 Ask me about:
+- Creating engaging reports from raw data
+- Cleaning and merging messy datasets
+- Google Sheets magic with formulas and app scripting
+- Firebase & app analytics insights
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
